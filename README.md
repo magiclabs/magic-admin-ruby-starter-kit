@@ -1,5 +1,6 @@
-# Magic Admin Starter Kit for Ruby
----
+### 📣  The official Magic Admin Ruby SDK has been released. Please visit [magic-admin-ruby](https://github.com/magiclabs/magic-admin-ruby).
+
+# [DEPRECATED] Magic Admin Starter Kit for Ruby
 
 This Ruby Starter Kit implements the bare minimum functionality to support server-side Magic Admin authentication flow. It is created to demonstrate how each method can be implemented. It also serves as a lighweight SDK to allow developers to quickly prototype a server-side authentication flow with Magic in Ruby. This Ruby library should not be used directly in production because it has not been optimized yet. Please use this library for prototyping only.
 
